@@ -1,15 +1,16 @@
 .App-header {
   display: flex;
+  align-items: center;
 }
 
-.App-header input {
+.App-header TextField {
   width:calc(100% - 80px);
   height:40px;
   font-size:24px;
  }
- .App-header button {
+ .App-header Button {
   height:46px;
-  width:80px;
+  width:40px;
   cursor: pointer;
  }
 
